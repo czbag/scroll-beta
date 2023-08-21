@@ -1,0 +1,16 @@
+{
+  "ethereum": {
+    "rpc": [
+      "https://eth-sepolia-public.unifra.io"
+    ],
+    "explorer": "https://sepolia.etherscan.io/tx/",
+    "token": "ETH"
+  },
+  "scroll": {
+    "rpc": [
+      "https://sepolia-rpc.scroll.io"
+    ],
+    "explorer": "https://sepolia-blockscout.scroll.io/tx/",
+    "token": "ETH"
+  }
+}
