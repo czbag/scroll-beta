@@ -10,9 +10,9 @@
 <h2>🚀 Запуск</h2>
 
 ```
-git clone https://github.com/czbag/scroll.git
+git clone https://github.com/czbag/scroll-beta.git
 
-cd scroll
+cd scroll-beta
 
 pip install -r requirements.txt
 
